@@ -2,5 +2,7 @@
 #  smartladder.host
 #  imouto.host
 #
-Ver : 1.68.0371 Myuseru foaran
-#  #Update Time : 2014.06.05;17:00
+#  #Ver : 1.70.0373 Myuseru foaran
+#  #Update Time : 2014.06.10;14:18
+#  #Fix & Bug : 
+#  # 1.70.0373: 修复部分谷歌服务。
